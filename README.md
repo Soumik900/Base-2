@@ -32,3 +32,4 @@ Add contribution guidelines
 Update project roadmap
 Add example workflow
 Improve script organization
+Refactor configuration files
