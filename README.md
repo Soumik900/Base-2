@@ -34,3 +34,4 @@ Add example workflow
 Improve script organization
 Refactor configuration files
 Update environment settings
+Add integration example
