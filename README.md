@@ -6,3 +6,4 @@ Improve README formatting
 Add project introduction
 Update setup instructions
 Add usage examples
+Refine deployment guide
