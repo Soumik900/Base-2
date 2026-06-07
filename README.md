@@ -41,3 +41,4 @@ Add maintenance notes
 Refine folder layout
 Improve setup documentation
 Update changelog entries
+Add project checklist
