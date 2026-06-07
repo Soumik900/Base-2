@@ -49,3 +49,4 @@ Refine example code
 Improve repository structure
 Update development notes
 Add release preparation notes
+Improve project consistency
