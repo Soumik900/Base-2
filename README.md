@@ -14,3 +14,4 @@ Improve code structure
 Add project notes
 Refactor helper utilities
 Update dependency list
+Add testing instructions
