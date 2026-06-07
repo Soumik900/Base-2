@@ -7,3 +7,4 @@ Add project introduction
 Update setup instructions
 Add usage examples
 Refine deployment guide
+Fix documentation typo
