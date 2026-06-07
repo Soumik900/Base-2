@@ -4,3 +4,4 @@ Base 2
 ...........
 Improve README formatting
 Add project introduction
+Update setup instructions
