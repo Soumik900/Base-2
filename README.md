@@ -13,3 +13,4 @@ Update feature description
 Improve code structure
 Add project notes
 Refactor helper utilities
+Update dependency list
