@@ -27,3 +27,4 @@ Improve code readability
 Update repository information
 Add deployment example
 Refine project settings
+Improve documentation clarity
