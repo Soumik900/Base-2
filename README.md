@@ -18,3 +18,4 @@ Add testing instructions
 Improve file organization
 Update contract comments
 Add developer notes
+Refine installation steps
