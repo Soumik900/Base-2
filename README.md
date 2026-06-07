@@ -11,3 +11,4 @@ Fix documentation typo
 Add configuration example
 Update feature description
 Improve code structure
+Add project notes
