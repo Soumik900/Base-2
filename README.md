@@ -40,3 +40,4 @@ Update testing workflow
 Add maintenance notes
 Refine folder layout
 Improve setup documentation
+Update changelog entries
