@@ -22,3 +22,4 @@ Refine installation steps
 Improve project navigation
 Add sample configuration
 Update build documentation
+Add troubleshooting section
