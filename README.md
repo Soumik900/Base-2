@@ -25,3 +25,4 @@ Update build documentation
 Add troubleshooting section
 Improve code readability
 Update repository information
+Add deployment example
