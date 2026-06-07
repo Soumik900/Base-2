@@ -48,3 +48,4 @@ Add usage documentation
 Refine example code
 Improve repository structure
 Update development notes
+Add release preparation notes
